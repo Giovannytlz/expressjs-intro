@@ -20,5 +20,5 @@ nodejs y npm instalado
 
 ## hint
 
-Investigue sobre el evento onclick de javascript y sobre los ciclos en jade.
+Investigue sobre el evento onclick de javascript y sobre las iteraciones en pug.
 
